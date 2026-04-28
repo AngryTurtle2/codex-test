@@ -1,0 +1,24 @@
+{
+  "system_reserved": {
+    "alt+tab": "Switch between open windows",
+    "win+l": "Lock this device",
+    "ctrl+alt+del": "Open security options",
+    "win+d": "Show or hide desktop",
+    "win+shift+s": "Open Snipping Tool capture"
+  },
+  "apps": {
+    "snipaste.exe": {
+      "f1": "Snipaste: start screen snip",
+      "f3": "Snipaste: show paste/history candidate (common custom setup)",
+      "shift+f3": "Snipaste: optional paste variants (depends on config)"
+    },
+    "code.exe": {
+      "ctrl+shift+p": "VS Code: Command Palette",
+      "ctrl+p": "VS Code: Quick Open"
+    },
+    "chrome.exe": {
+      "ctrl+l": "Chrome: focus address bar",
+      "ctrl+shift+t": "Chrome: reopen closed tab"
+    }
+  }
+}
